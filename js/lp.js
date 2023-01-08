@@ -48,7 +48,7 @@ function last_page() {
             setTimeout(() => {
                 document.querySelector("div a[class*='get-link']").click();
                 setTimeout(() => {
-                    window.location = "https://h2244r.github.io/lb";
+                    window.location = "https://h2244r.github.io/lp";
                 }, 50);
             }, 50);
         }
